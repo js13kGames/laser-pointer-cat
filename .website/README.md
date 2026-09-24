@@ -1,4 +1,7 @@
 ---
+genres:
+  - sandbox
+  - casual
 post: https://blog.svntax.com/playcanvas-and-the-js13kgames-competition/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
